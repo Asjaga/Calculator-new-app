@@ -3,8 +3,14 @@
 
 A stylish, responsive calculator built using **HTML, CSS, and JavaScript**, optimized for both desktop and mobile screens. The app replicates a real-world calculator with basic arithmetic functionality and a polished UI.
 
+
 ![image](https://github.com/user-attachments/assets/0def2356-c45d-476b-bf64-9e936ddb8c3d)
 
+
+---
+
+## Demo Link 
+https://asjaga.github.io/Calculator-new-app/
 
 ---
 
