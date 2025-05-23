@@ -61,7 +61,8 @@ calculator-app/
 
 Try it out on mobile for a full-screen experience!
 
-![image](https://github.com/user-attachments/assets/37b2a418-cd10-4b15-bbcf-8c294cffed90)
+![image](https://github.com/user-attachments/assets/b95678ae-9eb5-4461-96fc-37aac15947c6)
+
 
 
 
