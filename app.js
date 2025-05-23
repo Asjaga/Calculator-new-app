@@ -49,7 +49,7 @@ for(let box of boxes){
                  expression = expression + box.id;
             }
             else{
-                msg.style.fontSize = "3rem";
+                msg.style.fontSize = "2.5rem";
                 msg.innerText = "Not Allowed"
             }
            
