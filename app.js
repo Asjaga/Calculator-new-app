@@ -13,8 +13,8 @@ let shortNum = (num)=>{
 }
 for(let box of boxes){
     box.addEventListener("click",()=>{
-        msg.style.fontSize = "4rem";
-        msg2.style.fontSize = "4rem";
+        msg.style.fontSize = "3.5rem";
+        msg2.style.fontSize = "3.5rem";
 
         if (box.id === "="){
             try{
@@ -49,7 +49,7 @@ for(let box of boxes){
                  expression = expression + box.id;
             }
             else{
-                msg.style.fontSize = "3.5rem";
+                msg.style.fontSize = "3rem";
                 msg.innerText = "Not Allowed"
             }
            
