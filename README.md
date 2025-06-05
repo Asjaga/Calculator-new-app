@@ -10,7 +10,7 @@ A stylish, responsive calculator built using **HTML, CSS, and JavaScript**, opti
 ---
 
 ## Demo Link 
-https://asjaga.github.io/Calculator-new-app/
+[https://asjaga.github.io/Calculator-new-app/](https://asjaga.github.io/new-calculator-app/)
 
 ---
 
